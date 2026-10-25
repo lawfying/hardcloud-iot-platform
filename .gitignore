@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+myenv/
+node_modules/
+.idea/
+dist/
+build/
+*.sqlite3
+*.db
+.env
+*.zip
+*.rar
